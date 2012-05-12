@@ -51,3 +51,5 @@ group :test do
 	gem "capybara-mechanize"
 	gem "launchy"
 end
+
+gem "twitter-bootstrap-rails"
